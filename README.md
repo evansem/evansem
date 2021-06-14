@@ -1,8 +1,10 @@
-## Hi I'm Emanuel,  welcome to my profile 👋
+# Hi I'm Emanuel,  welcome to my profile 👋
 
-### My Work 🌱
+## My Work 🌱
 
 Currently I'm mostly working on copyrighted material, yet cool open sourse projets will come soon
+
+I am passionate about software development and cybersecurity
 
 These are some technologies and tools which I frequently use:
 
@@ -16,6 +18,14 @@ These are some technologies and tools which I frequently use:
   <img width="28px" style="margin-right:20px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg'>
 </div>
 
-### My Hobbies ⚡
+## My Hobbies and Fun facts ⚡
 
-Fun fact: One of my bigest passions outside IT is cooking! 🍝 In particular I enjoy making fresh home-made pizza 🍕
+- One of my bigest passions outside IT is cooking! 🍝 In particular I enjoy making fresh home-made pizza 🍕
+- I'm bilingual, I can speak both English and Italian fluently and I am not learning Spanish 🇳🇿 🇮🇹 🇪🇸
+- I enjoy hiking and explore all landscapes that nature provides us 🌤️⛰️
+
+<!-- Profile Stats
+<p align="center">
+  <img alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=evansem&count_private=true&show_icons=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evansem&layout=compact/>
+</p> -->
