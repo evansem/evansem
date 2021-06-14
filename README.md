@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi I'm Emanuel,  welcome to my profile 👋
 
-<!--
-**evansem/evansem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Work 🌱
 
-Here are some ideas to get you started:
+Currently I'm mostly working on copyrighted material, yet cool open sourse projets will come soon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These are some technologies and tools which I frequently use:
+
+<div style="display:flex;flex-direction:row">
+  <img width="28px" style="margin-right:20px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'>
+  <img width="28px" style="margin-right:20px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'>
+  <img width="28px" style="margin-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" >
+  <img width="28px" style="margin-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >
+  <img width="28px" style="margin-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" >
+  <!--<img width="28px" style="margin-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" >-->
+  <img width="28px" style="margin-right:20px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg'>
+</div>
+
+### Hobbies ⚡
+
+Fun fact: On of my bigest passions outside IT is cooking! 🍝 In particular I enjoy making fresh home-made pizza 🍕
