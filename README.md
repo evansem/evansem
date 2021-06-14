@@ -16,6 +16,6 @@ These are some technologies and tools which I frequently use:
   <img width="28px" style="margin-right:20px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg'>
 </div>
 
-### Hobbies ⚡
+### My Hobbies ⚡
 
-Fun fact: On of my bigest passions outside IT is cooking! 🍝 In particular I enjoy making fresh home-made pizza 🍕
+Fun fact: One of my bigest passions outside IT is cooking! 🍝 In particular I enjoy making fresh home-made pizza 🍕
